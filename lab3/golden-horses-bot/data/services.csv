@@ -1,0 +1,8 @@
+code,name,price_rub,duration_min,type
+exp_15,Экспресс 15 минут,1500,15,express
+exp_30,Экспресс 30 минут,2000,30,express
+walk_1h,1 час по лесу,3000,60,walk
+walk_1_5h,До 1,5 часов на озеро,4000,90,walk
+walk_2h,До 2 часов к зубрам,5000,120,walk
+vip_1h,VIP 1 час по лесу,10000,75,vip
+vip_1_5h,VIP 1,5 часа на озеро,12000,105,vip
